@@ -37,7 +37,7 @@ Session.vim
 .tern-project
 
 # Ghost DB file
-*.db
+#*.db
 *.db-journal
 
 .build
@@ -46,7 +46,7 @@ Session.vim
 
 /core/server/data/export/exported*
 /content/tmp/*
-/content/data/*
+#/content/data/*
 /content/logs/*
 /content/apps/**/*
 /content/themes/**/*
